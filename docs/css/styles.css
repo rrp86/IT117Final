@@ -48,17 +48,11 @@
     padding-top: 50px;
 }
 
-#body_about{
+#body{
     font-family: Arial;
     text-align: center;
 }
 
-#body_product{
-    font-family: Arial;
-    text-align: center;
-}
-
-#body_contact{
-    font-family: Arial;
+#footer {
     text-align: center;
 }
