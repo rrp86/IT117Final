@@ -45,5 +45,20 @@
     height: 150px;
     float: left;
     text-align: center;
-    padding-top: 75px;
+    padding-top: 50px;
+}
+
+#body_about{
+    font-family: Arial;
+    text-align: center;
+}
+
+#body_product{
+    font-family: Arial;
+    text-align: center;
+}
+
+#body_contact{
+    font-family: Arial;
+    text-align: center;
 }
