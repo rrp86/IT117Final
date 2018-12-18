@@ -1,5 +1,6 @@
 #wrapper{
     width: 1080px;
+    background-color: darkcyan;
 }
 .topnav {
     background-color: #333;
@@ -31,13 +32,15 @@
 }
 
 .img2 {
-    width: 1080px;
+    width: 960px;
+    padding: 60px;
 }
 
 #box {
     font-family: Arial;
     width: 667px;
     float: left;
+    text-align: center;
 }
 
 #button {
@@ -46,6 +49,7 @@
     float: left;
     text-align: center;
     padding-top: 50px;
+    border: #4CAF50 5px solid;
 }
 
 #body{
@@ -54,5 +58,9 @@
 }
 
 #footer {
+    text-align: center;
+}
+
+#button1 {
     text-align: center;
 }
